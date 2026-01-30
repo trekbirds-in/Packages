@@ -310,7 +310,11 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/Harihar/Picsart_25-01-06_14-04-55-117.png",
+            "https://trekbirds.in/Harihar/IMG_20240702_101444_921.jpg",
+            "https://trekbirds.in/Harihar/IMG_20240702_101445_008.jpg"
+        ]
     },
     {
         "name": "Sandhan Valley Trek & Rappelling",
@@ -1020,5 +1024,6 @@
     }
 
 ]
+
 
 
