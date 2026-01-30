@@ -91,7 +91,15 @@
         "date": "TBD",
         "duration": "2 Days / 1 Night",
         "price": "TBD",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/Harishchandragad/20240702_134531.jpg",
+            "https://trekbirds.in/Harishchandragad/244695144_621918319170154_7062240251356816286_n.jpg",
+            "https://trekbirds.in/Harishchandragad/251706de8b81725e0b630657900b9613.jpg",
+            "https://trekbirds.in/Harishchandragad/424958373_17964211454695889_1910179451387235413_n.jpg",
+            "https://trekbirds.in/Harishchandragad/IMG-20240610-WA0136.jpg",
+            "https://trekbirds.in/Harishchandragad/IMG-20241023-WA0001.jpg",
+            "https://trekbirds.in/Harishchandragad/Screenshot_20251126_100317_Instagram.jpg"
+        ]
     },
     {
         "name": "Kalsubai Trek",
@@ -998,4 +1006,5 @@
         "price": "",
         "image": ""
     }
+
 ]
