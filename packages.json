@@ -444,7 +444,15 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/Andharban/642c97bdbebf8ea64f2e8292c3ed6a1a.jpg",
+            "https://trekbirds.in/Andharban/20f6686a8139d0806e011f21920e34bd.jpg",
+            "https://trekbirds.in/Andharban/71a8182bfb54c07c1308cd5ecc9490bb.jpg",
+            "https://trekbirds.in/Andharban/620cf611125def4b4f4f48979fdfe6d6.jpg",
+            "https://trekbirds.in/Andharban/38b4922d923a75374430c0e82f3e8cc8.jpg",
+            "https://trekbirds.in/Andharban/462385001884470447abf7d425954f6e.jpg",
+            "https://trekbirds.in/Andharban/88c0187158960fd5e74ad0a12ab5ab47.jpg"
+        ]
     },
     {
         "name": "Aadrai Jungle Trek",
@@ -1030,6 +1038,7 @@
     }
 
 ]
+
 
 
 
