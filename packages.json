@@ -513,7 +513,17 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/Aadrai/20250713_134746.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250714-WA0212.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250714-WA0101.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250714-WA0158.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250714-WA0214.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250714-WA0182.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250805-WA0077.jpg",
+            "https://trekbirds.in/Aadrai/IMG-20250715-WA0052.jpg",
+            "https://trekbirds.in/Aadrai/Picsart_25-07-11_17-38-40-501.jpg"
+        ]
     },
     {
         "name": "Kalu Waterfall Trek",
@@ -1038,6 +1048,7 @@
     }
 
 ]
+
 
 
 
