@@ -589,7 +589,14 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/KaluWaterfall/20250721_092610.jpg",
+            "https://trekbirds.in/KaluWaterfall/20250720_090357.jpg",
+            "https://trekbirds.in/KaluWaterfall/20250720_085810.jpg",
+            "https://trekbirds.in/KaluWaterfall/20250721_092803.jpg",
+            "https://trekbirds.in/KaluWaterfall/IMG-20250720-WA0039.jpg",
+            "https://trekbirds.in/KaluWaterfall/IMG-20250720-WA0124.jpg"
+        ]
     },
     {
         "name": "Nanemachi Waterfall Trek",
@@ -653,7 +660,14 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/NanemachiWaterfall/620cf611125def4b4f4f48979fdfe6d6.jpg",
+            "https://trekbirds.in/NanemachiWaterfall/369419492_1485606772186162_1296013494910185922_n.jpg",
+            "https://trekbirds.in/NanemachiWaterfall/FB_IMG_1632503216532.jpg",
+            "https://trekbirds.in/NanemachiWaterfall/Nanemachi_7.jpg",
+            "https://trekbirds.in/NanemachiWaterfall/f5457dad07751d0ef72235d5446c329c.jpg",
+            "https://trekbirds.in/NanemachiWaterfall/nanemachi.jpg"
+        ]
     },
     {
         "name": "Rajgad Trek",
@@ -843,7 +857,14 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/Korigad/1fda95e36261dc1bdc1eff6040038b06.jpg",
+            "https://trekbirds.in/Korigad/0a416fce6d2dc750995425327a5b0a8f.jpg",
+            "https://trekbirds.in/Korigad/29456947d7891d60f98636545a561d3b.jpg",
+            "https://trekbirds.in/Korigad/54e6f5afa6b8c12f456dc2938ddb7718.jpg",
+            "https://trekbirds.in/Korigad/6ca0a782af54faf563b8b571740eaa6c.jpg",
+            "https://trekbirds.in/Korigad/b0f3657b1d19ec093a90ba246a4ca702.jpg"
+        ]
     },
     {
         "name": "Visapur Monsoon Trek",
@@ -1046,11 +1067,4 @@
         "price": "",
         "image": ""
     }
-
 ]
-
-
-
-
-
-
