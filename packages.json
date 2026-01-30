@@ -377,7 +377,13 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/SandhanValley/20240616_084930.jpg",
+            "https://trekbirds.in/SandhanValley/20240616_102426.jpg",
+            "https://trekbirds.in/SandhanValley/20240616_103109.jpg",
+            "https://trekbirds.in/SandhanValley/IMG-20240527-WA0052.jpg",
+            "https://trekbirds.in/SandhanValley/Picsart_24-06-17_22-50-05-424.jpg"
+        ]
     },
     {
         "name": "Andharban Jungle Trek",
@@ -1024,6 +1030,7 @@
     }
 
 ]
+
 
 
 
