@@ -171,7 +171,19 @@
         "date": "",
         "duration": "",
         "price": "",
-        "image": ""
+        "image": [
+            "https://trekbirds.in/Kalsubai/kalsubai%20peak_20260123_224421_0000.png",
+            "https://trekbirds.in/Kalsubai/20241225_215802.jpg",
+            "https://trekbirds.in/Kalsubai/1697828368479.jpg",
+            "https://trekbirds.in/Kalsubai/20241225_220122.jpg",
+            "https://trekbirds.in/Kalsubai/20241225_215921.jpg",
+            "https://trekbirds.in/Kalsubai/20241225_220845.jpg",
+            "https://trekbirds.in/Kalsubai/20241225_220812.jpg",
+            "https://trekbirds.in/Kalsubai/20241225_220315.jpg",
+            "https://trekbirds.in/Kalsubai/20241225_220722.jpg",
+            "https://trekbirds.in/Kalsubai/20250101_231520.jpg",
+            "https://trekbirds.in/Kalsubai/20250102_080050.jpg",
+        ]
     },
     {
         "name": "Rajmachi Trek",
@@ -1008,3 +1020,4 @@
     }
 
 ]
+
